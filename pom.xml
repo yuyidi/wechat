@@ -6,7 +6,7 @@
   <artifactId>wechat</artifactId>
   <version>1.0-SNAPSHOT</version>
   <modules>
-    <module>wechatcore</module>
+    <module>wechat-core</module>
   </modules>
   <packaging>pom</packaging>
 
