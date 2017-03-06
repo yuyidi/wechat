@@ -1,6 +1,5 @@
-> 微信项目
-* wechat-core
-
+ > 微信项目
+* wechat-core    
 > 项目依赖说明
 
 > 项目架构
