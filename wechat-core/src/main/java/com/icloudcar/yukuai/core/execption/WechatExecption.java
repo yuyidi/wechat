@@ -7,7 +7,6 @@ package com.icloudcar.yukuai.core.execption;
  */
 public class WechatExecption extends Exception {
 
-
     public WechatExecption(String message, Throwable cause) {
         super(message, cause);
     }
