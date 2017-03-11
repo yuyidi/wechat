@@ -4,13 +4,12 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ * 全局返回码说明
  * Created by yuyidi on 2017/3/3.
  * package：com.icloudcar.yukuai.core
  */
 public class GlobalReturnCode {
-    /**
-     * 全局返回码说明
-     */
+
     private final static Map<Integer, String> returnCodeMap = new HashMap<Integer, String>();
 
     static {

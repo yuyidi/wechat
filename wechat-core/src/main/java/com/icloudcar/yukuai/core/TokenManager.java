@@ -10,7 +10,5 @@ import org.slf4j.LoggerFactory;
  */
 public class TokenManager {
     public static Logger logger = LoggerFactory.getLogger(TokenManager.class);
-    public static void main(String[] args) {
-        logger.info("开始微信开发");
-    }
+
 }
