@@ -8,6 +8,8 @@
     <modules>
         <module>wechat-core</module>
         <module>wechat-web</module>
+        <module>wechat-dialogue</module>
+        <module>wechat-foundation</module>
     </modules>
     <packaging>pom</packaging>
 

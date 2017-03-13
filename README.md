@@ -1,6 +1,7 @@
 > 微信项目
 
-* wechat-core    
+* wechat-core
+* wechat-web    
 
 > 项目架构
 
