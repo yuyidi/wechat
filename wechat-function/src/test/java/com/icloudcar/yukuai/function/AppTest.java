@@ -1,4 +1,4 @@
-package com.icloudcar.yukuai.foundation;
+package com.icloudcar.yukuai.function;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
