@@ -9,7 +9,7 @@
         <module>wechat-core</module>
         <module>wechat-web</module>
         <module>wechat-dialogue</module>
-        <module>wechat-foundation</module>
+        <module>wechat-function</module>
     </modules>
     <packaging>pom</packaging>
 
