@@ -1,5 +1,6 @@
 > 微信项目core依赖
 
-* 微信基础配置
-* 微信基础支持
-* 用户管理
+* http-client
+* jackson
+* spring-web(RestTemplate)
+* log4j
